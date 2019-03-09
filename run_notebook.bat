@@ -1,2 +1,2 @@
-call activate udacity_cv
+call activate cv-nd
 call jupyter notebook
