@@ -2,7 +2,7 @@
 ## Accomplished as a required project for Udacity Computer Vision Nanodegree 
 
 ## Project Overview
-[N.B All the codes are in Jupyter notebook.] 
+#####[N.B All the codes are in Jupyter notebook.] 
 
 In this project, I implemented SLAM (Simultaneous Localization and Mapping) for a 
 2 dimensional world! The task is to combine Robot sensor measurements and 
@@ -18,7 +18,8 @@ and autonomous systems.
   <img src="./images/robot_world.png" width=50% height=50% />
 </p>
 
-The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures, **only Notebook 3 and the `robot_class.py` file will be graded**:
+The project can be broken up into three Python notebooks; the first two are for exploration 
+of provided code, and a review of SLAM architectures.
 
 __Notebook 1__ : Robot Moving and Sensing
 
@@ -32,7 +33,7 @@ __Notebook 3__ : Landmark Detection and Tracking
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
 git clone https://github.com/alarafat/Visual_SLAM.git
-cd Visual_SLAM
+cd visual_slam
 ```
 
 2. Create (and activate) a new environment named `cv-nd` with all the required packages, 
