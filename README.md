@@ -2,7 +2,7 @@
 ## Accomplished as a required project for Udacity Computer Vision Nanodegree 
 
 ## Project Overview
-###[N.B All the codes are in Jupyter notebook.] 
+[N.B All the codes are in Jupyter notebook.] 
 
 In this project, I implemented SLAM (Simultaneous Localization and Mapping) for a 
 2 dimensional world! The task is to combine Robot sensor measurements and 
